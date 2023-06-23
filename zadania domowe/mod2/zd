@@ -1,7 +1,0 @@
-1) Załóż konto a AWS
-2) Zabezpiecz konto
-    - dodaj MFA dla Root
-    - Załóż użytkownika IAM
-    - Dodaj do do grupy i nadaj uprawnienia całej grupie
-    - Dodaj MFA dla użytkownika IAM
- 3) Ustaw budżety i alerty
